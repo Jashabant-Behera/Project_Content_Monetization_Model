@@ -31,7 +31,6 @@ wheels/
 *.pkl
 *.h5
 *.csv
-!src/data/youtube_ad_revenue_dataset.csv
 
 # IDE
 .vscode/
