@@ -30,7 +30,6 @@ wheels/
 # Models and data
 *.pkl
 *.h5
-*.csv
 
 # IDE
 .vscode/
