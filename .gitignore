@@ -50,8 +50,11 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-etc/
-Include/
+
+# Virtual Environment (Windows)
 Lib/
 Scripts/
+Include/
+etc/
 share/
+pyvenv.cfg
